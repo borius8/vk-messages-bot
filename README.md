@@ -1,3 +1,7 @@
+#Custom debug fork
+
+Please visit original page: https://github.com/zaynetro/vk-messages-bot
+
 # VK Messages Telegram Bot
 
 Listens for your messages updates and forwards them to your Telegram.
